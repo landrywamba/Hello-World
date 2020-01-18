@@ -1,5 +1,7 @@
 # Hello-World
 
+Just tried to create my new first repository
+
 Hi guys,
 
 I'm Landry a new computer programmer student; I like specialy working on front end development website.
